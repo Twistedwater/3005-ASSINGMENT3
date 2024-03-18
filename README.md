@@ -13,4 +13,4 @@ conn = psycopg2.connect(host = "hostname", dbname="databasename", user="username
 
 after following the instructions above you shuold be able to run the code in your terminal .
 
-Video LInk
+Video LInk: https://youtu.be/SazHcXuAGAU
