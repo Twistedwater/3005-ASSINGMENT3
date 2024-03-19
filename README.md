@@ -13,4 +13,4 @@
 
 after following the instructions above you shuold be able to run the code in your terminal .
 
-Video LInk: https://youtu.be/SazHcXuAGAU
+Video LInk:https://youtu.be/iZiOGUHX4ZI
